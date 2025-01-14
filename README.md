@@ -8,3 +8,4 @@ Projekt zum Lernen von GitHub
 - [ ] issue wieder schliessen
 
 damit schliesse ich issue #1
+ich habe im kommentar zum schliessen das codewort vergessen. jetzt schliesse ich den issue über den commit
