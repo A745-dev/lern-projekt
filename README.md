@@ -7,3 +7,4 @@ Projekt zum Lernen von GitHub
 - [x] Issue bearbeiten
 - [ ] issue wieder schliessen
 
+damit schliesse ich issue #1
