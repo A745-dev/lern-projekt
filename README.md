@@ -3,5 +3,7 @@ Projekt zum Lernen von GitHub
 
 ## Meine Pläne:
 - [x] README.md füllen
-- [ ] etc
+- [x] Issue erstellen
+- [x] Issue bearbeiten
+- [ ] issue wieder schliessen
 
